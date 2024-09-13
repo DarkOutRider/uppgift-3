@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(186, 219, 111)
+    
+    
+}
+
+a:any-link {
+    color: rgb(90, 114, 205);
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:active {
+    color:pink;
+    text-decoration: underline;
+    
+}
